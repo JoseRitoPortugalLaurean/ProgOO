@@ -1,6 +1,6 @@
-<img width="293" alt="image" src="https://user-images.githubusercontent.com/126290786/225111896-3db310e9-6d2c-4b05-aa6e-e72f96e7d205.png">
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/126290786/225111924-642d5f1b-6e06-4821-aa04-70fb4d7df32e.png">
 
-<img width="425" alt="image" src="https://user-images.githubusercontent.com/126290786/225111924-642d5f1b-6e06-4821-aa04-70fb4d7df32e.png">
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/126290786/225111896-3db310e9-6d2c-4b05-aa6e-e72f96e7d205.png">
 
 # TECNOLÓGICO NACIONAL DE MÉXICO
 # INSTITUTO TECNOLÓGICO DE TIJUANA
