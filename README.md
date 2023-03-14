@@ -22,6 +22,4 @@ PORTAFOLIO DE PROGRAMCIÓN ORIENTADA A OBJETOS
 JOSE RITO PORTUGAL LAUREAN
 
 ## DOCENTE:
-Mario García Valdéz
-
-![image](https://user-images.githubusercontent.com/126290786/225111986-4c0e61d5-76bc-4f05-a533-09ca6e36d898.png)
+MARIO GARCÍA VALDÉZ
