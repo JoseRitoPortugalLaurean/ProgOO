@@ -30,15 +30,36 @@ Es importante, ya que, separar los métodos y partes del código en secciones ac
 
 ## 5.	Describe con tus palabras el concepto de herencia e ilustra el concepto con imágenes:
 
+Un sistema de jerarquía de clases y objetos con el que se busca darle un orden y características específicas a los objetos y clases que lleva un código.
 
-
+![CU00684B_2](https://user-images.githubusercontent.com/126290786/225505446-72fca950-8aed-4c6b-9781-f29ee472fccd.jpg)
 
 # UML: Diagrama de clases
 
 ## 1.	Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, que tan utilizado es en años recientes, en particular el Diagrama de Clases. Menciona algunas de las herramientas para el modelado en UML. ¿Sabes de alguna empresa local que utilice este lenguaje?
 
+El Lenguaje de Modelado Unificado (UML, por sus siglas en inglés) es un lenguaje de modelado visual utilizado en el diseño y desarrollo de sistemas de software y fue creado en 1990 por Grady Booch, James Rumbaugh e Ivar Jacobson, todos ellos ingenieros de software.
 
+Su objetivo era proporcionar un lenguaje de modelado unificado que pudiera ser utilizado por toda la comunidad de ingeniería de software, independientemente de la metodología de desarrollo utilizada. UML es utilizado en sistemas de software de diferentes tamaños y complejidades, desde pequeñas aplicaciones hasta sistemas de información empresariales complejos.
+
+En años recientes, UML ha sido ampliamente utilizado en la industria del software para modelar y diseñar sistemas de software. El Diagrama de Clases, una de las herramientas más populares en UML, se utiliza para representar la estructura y relaciones de los objetos en un sistema de software. Los desarrolladores pueden utilizar este diagrama para visualizar y comunicar la estructura de un sistema de software, lo que ayuda a entender mejor el funcionamiento de éste y a identificar posibles problemas o mejoras.
+
+Algunas de las herramientas que se usan hoy en día para modelar usando UML son Enterprise Architect, Visual Paradigm, MagicDraw, ArgoUML y Lucidchart. Por desgracia, desconozco de empresas y organizaciones en general, no solo locales, que hagan un uso activo del sistema UML para el desarrollo o para mejorar su productividad.
 
 ## 2.	Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago):
 
 
+
+
+
+# Referencias
+-Sebesta, R. W. (2011). Concepts of Programming Languages. Pearson Education.
+-Wikipedia. (2022). Programming paradigms. Recuperado el 16 de marzo de 2023, de https://en.wikipedia.org/wiki/Programming_paradigm
+-Myers, G. J. (1990). Taxonomies of programming languages. ACM Computing Surveys (CSUR), 22(4), 297-398.
+-Louden, K. C., & Lambert, K. A. (2010). Programming languages: principles and practice. Cengage Learning.
+-Booch, G., Rumbaugh, J., & Jacobson, I. (1999). El lenguaje unificado de modelado. Addison Wesley Longman.
+-OMG. (2021). Unified Modeling Language (UML). Recuperado el 16 de marzo de 2023, de https://www.omg.org/spec/UML/2.5.1/PDF/
+-Fowler, M. (2004). UML distilled: a brief guide to the standard object modeling language. Addison-Wesley Professional.
+-Larman, C. (2004). Applying UML and patterns: an introduction to object-oriented analysis and design and iterative development. Prentice Hall.
+-Wikipedia. (2023). Unified Modeling Language. Recuperado el 16 de marzo de 2023, de https://en.wikipedia.org/wiki/Unified_Modeling_Language
+-ChatGPT
