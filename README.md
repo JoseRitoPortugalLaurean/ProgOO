@@ -27,3 +27,9 @@
 
 ## DOCENTE:
 #### _MARIO GARCÍA VALDÉZ_
+
+
+
+
+# Investigación Unidad I
+[ParadigmaOO](../ParadigmaOO/ParadigmaOO.md)
