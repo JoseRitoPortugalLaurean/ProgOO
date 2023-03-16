@@ -14,7 +14,7 @@ El primer lenguaje orientado a objetos de la historia se llama Smalltalk y sus o
 
 ## 3.	Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación?
 
-El poder humano, fruto de la evolución, que le permite encontrar y decodificar patrones visuales con los que se pueden ver formas en un objeto que no las tiene. Se considera fundamental ya que permite crear e interpretar los objetos, para poder ser implementados en el código
+El poder humano, fruto de la evolución, que le permite encontrar y decodificar patrones visuales con los que se pueden ver formas en un objeto que no las tiene. Se considera fundamental ya que permite manejar la complejidad de los sistemas de software mediante la creación de modelos simplificados que representan aspectos clave de la realidad que se está modelando. Los modelos abstractos ocultan detalles irrelevantes y se enfocan en los aspectos esenciales, lo que facilita la comprensión, el diseño y el mantenimiento del sistema.
 
 ## 4.	Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar:
 
@@ -51,7 +51,6 @@ Algunas de las herramientas que se usan hoy en día para modelar usando UML son 
 
 
 
-
 # Referencias
 -Sebesta, R. W. (2011). Concepts of Programming Languages. Pearson Education.
 
@@ -60,6 +59,14 @@ Algunas de las herramientas que se usan hoy en día para modelar usando UML son 
 -Myers, G. J. (1990). Taxonomies of programming languages. ACM Computing Surveys (CSUR), 22(4), 297-398.
 
 -Louden, K. C., & Lambert, K. A. (2010). Programming languages: principles and practice. Cengage Learning.
+
+-Wikipedia. (2023). Object-oriented programming. Recuperado el 16 de marzo de 2023, de https://en.wikipedia.org/wiki/Object-oriented_programming
+
+-Wikipedia. (2023). Abstraction (computer science). Recuperado el 16 de marzo de 2023, de https://en.wikipedia.org/wiki/Abstraction_(computer_science)
+
+-Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1995). Design patterns: elements of reusable object-oriented software. Addison-Wesley Professional.
+
+-Dahl, O. J., & Nygaard, K. (1967). Simula: An ALGOL-based simulation language. Communications of the ACM, 9(9), 671-678.
 
 -Booch, G., Rumbaugh, J., & Jacobson, I. (1999). El lenguaje unificado de modelado. Addison Wesley Longman.
 
