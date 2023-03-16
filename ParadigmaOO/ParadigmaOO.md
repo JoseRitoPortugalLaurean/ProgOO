@@ -54,12 +54,21 @@ Algunas de las herramientas que se usan hoy en día para modelar usando UML son 
 
 # Referencias
 -Sebesta, R. W. (2011). Concepts of Programming Languages. Pearson Education.
+
 -Wikipedia. (2022). Programming paradigms. Recuperado el 16 de marzo de 2023, de https://en.wikipedia.org/wiki/Programming_paradigm
+
 -Myers, G. J. (1990). Taxonomies of programming languages. ACM Computing Surveys (CSUR), 22(4), 297-398.
+
 -Louden, K. C., & Lambert, K. A. (2010). Programming languages: principles and practice. Cengage Learning.
+
 -Booch, G., Rumbaugh, J., & Jacobson, I. (1999). El lenguaje unificado de modelado. Addison Wesley Longman.
+
 -OMG. (2021). Unified Modeling Language (UML). Recuperado el 16 de marzo de 2023, de https://www.omg.org/spec/UML/2.5.1/PDF/
+
 -Fowler, M. (2004). UML distilled: a brief guide to the standard object modeling language. Addison-Wesley Professional.
+
 -Larman, C. (2004). Applying UML and patterns: an introduction to object-oriented analysis and design and iterative development. Prentice Hall.
+
 -Wikipedia. (2023). Unified Modeling Language. Recuperado el 16 de marzo de 2023, de https://en.wikipedia.org/wiki/Unified_Modeling_Language
+
 -ChatGPT
