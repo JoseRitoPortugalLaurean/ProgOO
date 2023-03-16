@@ -32,4 +32,5 @@
 
 
 # Investigación Unidad I
-[ParadigmaOO](../ParadigmaOO/ParadigmaOO.md)
+[ParadigmaOO](../blob/master/ParadigmaOO/ParadigmaOO.md)
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
