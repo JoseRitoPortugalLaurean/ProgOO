@@ -32,4 +32,4 @@
 
 
 # Investigación Unidad I
-[ParadigmaOO](../ParadigmaOO/ParadigmaOO)
+[ParadigmaOO](/ParadigmaOO/ParadigmaOO.md)
