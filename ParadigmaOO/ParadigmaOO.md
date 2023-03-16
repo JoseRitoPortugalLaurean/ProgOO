@@ -48,7 +48,9 @@ Algunas de las herramientas que se usan hoy en día para modelar usando UML son 
 
 ## 2.	Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago):
 
+Una máquina expendedora de bebidas y alimentos preparados con un raspberry pi o algun otro dispositivo electronico dentro con el que se puedan procesar y autentificar pagos electrónicos, con la posibilidad de implementar métodos como Paypal, Google Pay, Apple Pay, Tarjeta de débito y crédito, etc.
 
+![Diagrama sin título drawio](https://user-images.githubusercontent.com/126290786/225533377-574cf92c-9c11-4843-bfb7-2b9973b02751.png)
 
 
 # Referencias
